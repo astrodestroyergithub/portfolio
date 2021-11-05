@@ -1,7 +1,7 @@
 # Developer Portfolio
 
 ### Developer Portfolio made with Next JS Framer Motion and TypeScript.
-
+A simple portfolio of mine made using React, Next.js, TypeScript, and many other frameworks. There are many sections to explore and it has a very nice feel associated with it. So explore the site and let me know about your suggestions by reaching out to me via my social media handles.
 
 ## Installation
 
@@ -10,7 +10,7 @@ npm run dev
 ```
 
 ## The project is deployed on Vercel : 
-[Deployed Version](https://www.google.com)
+[Deployed Version](https://roytamojit9000.vercel.app/)
 
 
 ## Contributing
