@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ["sumitdey.netlify.app"],
+    domains: ["astrodestroyerweb.netlify.app"],
   },
 };
