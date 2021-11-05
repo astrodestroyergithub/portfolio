@@ -38,9 +38,9 @@ export const services: Service[] = [
   },
   {
     Icon: RiComputerLine,
-    title: "Whatever",
+    title: "Social Activist",
     about:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis minima autem!",
+      "I am a <b>Rotaractor</b>. I was responsible for the web designing of the official website of the <b>Rotaract Club of VITC.</b>",
   },
 ];
 
@@ -80,7 +80,7 @@ export const languages: Skill[] = [
 export const tools: Skill[] = [
   {
     Icon: BsCircleFill,
-    name: "Figma",
+    name: "Canva",
     level: "85",
   },
   {
@@ -90,13 +90,13 @@ export const tools: Skill[] = [
   },
   {
     Icon: BsCircleFill,
-    name: "Illustrator",
+    name: "Premiere Pro",
     level: "60",
   },
   {
     Icon: BsCircleFill,
-    name: "Framer",
-    level: "45",
+    name: "Matlab",
+    level: "30",
   },
 ];
 
