@@ -22,7 +22,7 @@ const Resume = () => {
         <div>
           <h5 className="my-3 text-2xl font-bold">Experience</h5>
           <div className="">
-            <h5 className="my-2 text-xl font-bold">Software Developer Jr.</h5>
+            <h5 className="my-2 text-xl font-bold">Data Science and Business Analytics Intern</h5>
             <p className="font-semibold">The Sparks Foundation</p>
             <p className="my-3">I was a Data Science and Business Analytics intern at the sparks foundation. I gained invaluable experience from the tasks which were provided to me during my internship period.</p>
           </div>

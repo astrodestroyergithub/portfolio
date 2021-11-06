@@ -30,8 +30,8 @@ const Sidebar = () => {
       </p>
       {/* Resume */}
       <a
-        href="/assets/Tamojit Roy Resume.pdf"
-        download="Tamojit Roy Resume.pdf"
+        href="https://astrodestroyerweb.netlify.app/static/media/Tamojit_Roy_Resume.pdf"
+        download="Tamojit_Roy_Resume.pdf"
         className="flex items-center justify-center px-2 py-1 my-2 bg-gray-200 rounded-full cursor-pointer dark:bg-dark-200 dark:bg-black-500"
       >
         <GiTie className="w-6 h-6" />
