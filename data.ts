@@ -40,7 +40,7 @@ export const services: Service[] = [
     Icon: RiComputerLine,
     title: "Social Activist",
     about:
-      "I am a <b>Rotaractor</b>. I was responsible for the web designing of the official website of the <b>Rotaract Club of VITC.</b>",
+      "I am a <b>Rotaractor</b>. I was responsible for the web designing of the official website of the <b>Rotaract Club of VITC</b>",
   },
 ];
 
@@ -111,7 +111,7 @@ export const projects: IProject[] = [
     description:
       "This online web gaming review system allows an user to view a catalogue of preferred games by gamers and give feedback",
     image_path: "/images/gamePlanet.png",
-    deployed_url: "https://www.google.com",
+    deployed_url: "https://www.youtube.com/watch?v=jGbaidGz6j0",
     github_url: "https://github.com/astrodestroyergithub/GamePlanet",
     category: ["mysql"],
     key_techs: ["HTML5", "CSS3", "Javascript", "php", "MySQL"],
@@ -120,8 +120,8 @@ export const projects: IProject[] = [
     name: "CMS",
     description: "This is an online counselling website with added functionalities to relieve people from their mental trauma",
     image_path: "/images/cms.png",
-    deployed_url: "https://www.google.com",
-    github_url: "https://www.google.com",
+    deployed_url: "https://www.youtube.com/watch?v=6U2-ZkwB94M",
+    github_url: "https://github.com/astrodestroyergithub/CMS",
     category: ["mysql"],
     key_techs: ["HTML5", "CSS3", "Javascript", "php", "MySQL"],
   },
@@ -146,7 +146,7 @@ export const projects: IProject[] = [
   {
     name: "Transact Star",
     image_path: "/images/transactStar.png",
-    deployed_url: "https://www.google.com",
+    deployed_url: "https://www.youtube.com/watch?v=qA1tBs3gHOQ",
     github_url: "https://github.com/astrodestroyergithub/TransactStar",
     category: ["c"],
     description:
@@ -157,7 +157,7 @@ export const projects: IProject[] = [
   {
     name: "Smart City",
     image_path: "/images/smartCity.png",
-    deployed_url: "http://www.google.com",
+    deployed_url: "https://www.youtube.com/watch?v=qmnq67fIQpY",
     github_url: "https://github.com/astrodestroyergithub/Smart-City",
     category: ["arduino"],
     description:
@@ -184,7 +184,7 @@ export const projects: IProject[] = [
   {
     name: "Parallel Chess Engine",
     image_path: "/images/parallelChessEngine.png",
-    deployed_url: "https://www.google.com",
+    deployed_url: "https://www.youtube.com/watch?v=rnsW6OrNzKc",
     github_url: "https://github.com/astrodestroyergithub/Parallel-Chess-Engine",
     category: ["python"],
     description:
@@ -196,9 +196,23 @@ export const projects: IProject[] = [
     ],
   },
   {
+    name: "Image Search Engine",
+    image_path: "/images/imageSearchEngine.png",
+    deployed_url: "https://www.youtube.com/watch?v=rnsW6OrNzKc",
+    github_url: "https://github.com/astrodestroyergithub/Image-Search-Engine",
+    category: ["python"],
+    description:
+      'An image search engine made using python GUI, that extracts and stores features from images in database in the form of color correlogram and compares each against that of the query image, to retrieve similar images from the database',
+    key_techs: [
+      "Python",
+      "OpenCV",
+      "Tkinter",
+    ],
+  },
+  {
     name: "Game Recommendation System",
     image_path: "/images/gameRecommendationSystem.png",
-    deployed_url: "https://www.google.com",
+    deployed_url: "https://www.youtube.com/watch?v=g4he8i43XCY",
     github_url: "https://github.com/astrodestroyergithub/Game-Recommendation-System",
     category: ["r"],
     description: "A recommendation system for video games, which suggests gamers the best fit game for them based upon their choice and gaming-habit",
