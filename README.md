@@ -21,7 +21,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Tamojit Roy - [tamojitroy140301@gmail.com](mailto:tamojitroy140301@gmail.com)
 
-Youtube Channel: [https:bit.ly/astrodestroyeryoutubechannel](https://www.youtube.com/c/BackbenchCoder)
+Youtube Channel: [https:bit.ly/astrodestroyeryoutubechannel](https://www.youtube.com/c/AstroDestroyer146)
 
 
 ## License
