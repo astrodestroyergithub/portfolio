@@ -14,7 +14,7 @@ const Sidebar = () => {
   return (
     <>
       <Image
-        src="https://astrodestroyerweb.netlify.app/static/media/tax.3261555.jpg"
+        src="https://astrodestroyerweb.netlify.app/static/media/20240303_184435.jpg"
         alt="avatar"
         className=" mx-auto border rounded-full "
         height="128px"
